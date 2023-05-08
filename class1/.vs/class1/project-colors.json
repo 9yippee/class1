@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c4cfd098-cb4d-485f-9bda-9b130c042f49": {
+      "ProjectGuid": "c4cfd098-cb4d-485f-9bda-9b130c042f49",
+      "DisplayName": "class1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
