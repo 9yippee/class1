@@ -1,2 +1,4 @@
-﻿  2908.c
+﻿  1546.c
+C:\Users\guhyu\programming_2023\class1_bj\class1\class1\1546.c(20,11): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\guhyu\programming_2023\class1_bj\class1\class1\1546.c(24,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
   class1.vcxproj -> C:\Users\guhyu\programming_2023\class1_bj\class1\x64\Debug\class1.exe
